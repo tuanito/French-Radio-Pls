@@ -2,6 +2,8 @@ French-Radio-Pls
 ================
 List of .pls files to listen French webradio
 
+Broken links for French State radio stations were updated in 2016.
+
 /*
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
